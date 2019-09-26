@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_mido.mk
+    $(LOCAL_DIR)/devilianos_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mido-userdebug
+    devilianos_mido-userdebug

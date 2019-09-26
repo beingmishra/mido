@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/devilianos_mido.mk
+    $(LOCAL_DIR)/devilian_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    devilianos_mido-userdebug
+    devilian_mido-userdebug
